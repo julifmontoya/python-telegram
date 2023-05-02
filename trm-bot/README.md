@@ -13,10 +13,10 @@ pip install -r requirements.txt
 
 ## Python Packages
 ```
-pip install requests
-pip install python-decouple
-pip install beautifulsoup4
 pip install pyTelegramBotAPI
+pip install beautifulsoup4
+pip install python-decouple
+pip install requests
 ```
 
 ## Deactivate virtual enviroment
